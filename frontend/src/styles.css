@@ -1,0 +1,12 @@
+@import url(./../node_modules/bootstrap/dist/css/bootstrap.css);
+body {
+  background-image: linear-gradient(135deg, #6190e8, #a7bfe8);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
